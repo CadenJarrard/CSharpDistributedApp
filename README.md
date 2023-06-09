@@ -1,1 +1,2 @@
 # CSharpDistributedApp
+CSharpDistributedApp is a multi-threaded distributed application built in C# that employs a main controller which communicates with worker/client machines to quickly add a large number of floating point numbers.
