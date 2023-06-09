@@ -1,0 +1,15 @@
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\obj\Debug\net7.0\CSharpDistApp.csproj.AssemblyReference.cache
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\obj\Debug\net7.0\CSharpDistApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\obj\Debug\net7.0\CSharpDistApp.AssemblyInfoInputs.cache
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\obj\Debug\net7.0\CSharpDistApp.AssemblyInfo.cs
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\obj\Debug\net7.0\CSharpDistApp.csproj.CoreCompileInputs.cache
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\bin\Debug\net7.0\CSharpDistApp.exe
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\bin\Debug\net7.0\CSharpDistApp.deps.json
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\bin\Debug\net7.0\CSharpDistApp.runtimeconfig.json
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\bin\Debug\net7.0\CSharpDistApp.dll
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\bin\Debug\net7.0\CSharpDistApp.pdb
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\obj\Debug\net7.0\CSharpDistApp.dll
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\obj\Debug\net7.0\refint\CSharpDistApp.dll
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\obj\Debug\net7.0\CSharpDistApp.pdb
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\obj\Debug\net7.0\CSharpDistApp.genruntimeconfig.cache
+C:\Users\jarra\Documents\Coding\Projects\VSCode\CSharpDistributedApp\CSharpDistApp\obj\Debug\net7.0\ref\CSharpDistApp.dll
